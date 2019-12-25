@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! and $$\LaTeX$$"
+title:  "Welcome to Jekyll!"
 date:   2019-12-25 08:54:31 +0200
 categories: jekyll update
 ---
